@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    background-color: beige;
+}
+
+.container p{
+    color: black;
+}
+
+
+.POTO {
+    width: 100%;
+}
+
+.tengah {
+    text-align: center;
+    width: 80%;
+}
+iframe{
+    width: 100%;
+    height: 100%;
+}
